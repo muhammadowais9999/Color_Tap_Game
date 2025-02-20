@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-# Color_Tap_Game
-=======
-# game
+Color Tap Game 🎨🎮
+A fun and interactive color tapping game built using Flutter. Tap the correct colors as fast as possible and challenge your reflexes!
 
-A new Flutter project.
+🚀 Features
+✔️ Simple and engaging gameplay
+✔️ Smooth animations and UI
+✔️ Multiple difficulty levels
+✔️ Score tracking system
+✔️ Responsive design for all devices
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 79f33d2 (Initial commit)
